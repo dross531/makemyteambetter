@@ -12,3 +12,20 @@ bobosssssss 🫢
 
 
 I do not spot a lawnmower.
+
+
+HW assignment but not for a grade? 🤔🤔
+
+	- User stories should have(read chapter) Find and write a one-sentence definition for each of these terms
+		○ Epics
+			§ Epics are helpful because they give a very big-picture, high-level overview of what is desired 
+			§ You never move an epic into a sprint for development because it's way too big and not very detailed.
+		○ Themes
+			§ refers to a collection of related stories. 
+			§ Themes provide a convenient way to say that a bunch of stories have something in common, such as being in the same functional area.
+		○ Features
+			§ those that are often on the order of weeks in size and therefore too big for a single sprint. Some teams might call these features
+		○ Stories
+			§ The smallest forms of user stories are those I typically refer to as stories
+		○ Tasks 
+			the layer below stories, typically worked on by only one person, or perhaps a pair of people. Tasks typically require hours to perform. When we go to the task layer, 			we are specifying how to build something instead of what to build
